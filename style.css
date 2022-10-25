@@ -1,0 +1,16 @@
+body{             
+    background-image: url("Background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align:center;
+vertical-align:middle;
+font-family:"Algerian";
+font-size:30px;
+}
+
+#MinecraftCanvas{
+    box-shadow: 5px 5px 30px black;
+    border: 10px black solid;
+    border-radius: 20px;
+}
